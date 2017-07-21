@@ -14,5 +14,7 @@ public class Main {
         System.out.println("add second step for test jenkins copy files to remote server...");
 
         System.out.println("add thrid step for test jenkins copy files to remte server...");
+
+        System.out.println("add forth step for test jenkins copy files to remte server...");
     }
 }
