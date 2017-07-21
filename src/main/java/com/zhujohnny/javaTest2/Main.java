@@ -20,5 +20,8 @@ public class Main {
         System.out.println("add fifth step for test jenkins copy files to remte server...");
 
         System.out.println("add sixth step for test jenkins copy files to remte server...");
+
+
+        System.out.println("add seventh step for test jenkins copy files to remte server...");
     }
 }
